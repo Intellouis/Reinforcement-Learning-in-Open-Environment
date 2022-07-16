@@ -27,7 +27,7 @@ root@q7dfbb438c1e4f3aa5647fa1149e78d5-task0-0:/workspace# conda init
 Python 3.9.13
 ```
 
-### Step 2 在新环境中安装JDK8和
+### Step 2 在新环境中安装JDK8和vnc4server
 按照minedojo官方文档（https://docs.minedojo.org/sections/getting_started/install.html ）的流程逐步操作。先是
 ```
 apt update -y && apt install -y software-properties-common && \
